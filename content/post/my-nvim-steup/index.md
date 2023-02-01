@@ -10,7 +10,7 @@ tags:
     - 
 ---
 
-My neovim setup is built on top of NVchad howevever, it has a few extra plugins which really do help a lot. 
+My neovim setup is built on top of NVchad howevever, it has a few extra plugins which really do help a lot. <br /> Using `neovide` instead of `neovim` also helps a bit.
 
 ## Plugins
 
@@ -19,4 +19,5 @@ The plugins I use excluding the default NVchad ones are:
 - True-Zen.nvim
 - Markdown-Preview.nvim
 - Vimtex.vim
+
 
