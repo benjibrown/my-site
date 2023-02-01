@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Python
+description: A category for all things Python!
 image:
 
 # Badge style
